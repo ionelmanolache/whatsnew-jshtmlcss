@@ -13,3 +13,7 @@ The Jamstack framework for Svelte https://www.junglejs.org
 An Opinionated, SEO focused, Svelte Framework https://elderguide.com/tech/elderjs
 
 tutorials https://www.techiediaries.com
+
+angular, Modern Angular  https://blog.nrwl.io/modern-angular-39b3f360f3d9
+
+angular cli + nx  https://blog.nrwl.io/building-full-stack-applications-using-angular-cli-and-nx-5eff205248f1
