@@ -11,3 +11,5 @@ ship web apps & APIs on AWS https://begin.com
 The Jamstack framework for Svelte https://www.junglejs.org
 
 An Opinionated, SEO focused, Svelte Framework https://elderguide.com/tech/elderjs
+
+tutorials https://www.techiediaries.com
